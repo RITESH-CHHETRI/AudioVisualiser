@@ -31,7 +31,7 @@ pip install pygame librosa numpy
 
 You can customize various aspects of the visualizer by modifying the script:
 
-- Adjust the `SCREEN_WIDTH`, `SCREEN_HEIGHT`, `BAR_WIDTH`, and `BAR_SPACING` constants to change the size and spacing of the bars in the visualizer.
+- Adjust the `BAR_WIDTH`, and `BAR_SPACING` constants to change the size and spacing of the bars in the visualizer.
 
 - Modify the `BACKGROUND_COLOR` to change the background color of the visualizer.
 
